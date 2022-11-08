@@ -1,4 +1,4 @@
-text = ('''How to unban Telegram Number- your account has been suspended for a variety of reasons. Although Telegram has blocked or banned your phone number or we can say that telegram banned phone number, this does not mean that it cannot be unblocked.
+text = '''How to unban Telegram Number- your account has been suspended for a variety of reasons. Although Telegram has blocked or banned your phone number or we can say that telegram banned phone number, this does not mean that it cannot be unblocked.
 
 Few individuals are aware that blocked numbers can be unblocked in a matter of hours. However, before requesting an unban, you must understand why it was prohibited in the first place in order to protect your phone number from future bans.
 
@@ -146,6 +146,6 @@ Here are a few methods for getting your Telegram account back online:
 As an alternative, you might visit the Telegram website and submit the online support form there. After completing the required fields, click the Submit button.
 Look Them Up on Twitter
 Twitter users actively support Telegram. Send them a private message directly.
-''')
+'''
 
 print (text)
